@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Blog</string>
+    <string name="tab1">FLUTTER</string>
+    <string name="tab2">KOTLIN</string>
+    <string name="tab3">ANDROID</string>
+
+</resources>
